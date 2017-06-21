@@ -1,0 +1,34 @@
+The pieces of the red cube look as follows:
+oo o    oo  o
+ oooo ooo oooo
+ ooooooooo oooo
+oooo  ooo oooo
+oo oo o oo  o
+  o o  o    o o
+ooooooooo  oooo
+ ooo  ooo oooo
+ooooooooooooooo
+ oo   o o   o o
+
+One of the solutions in "unfolded form" looks as follows:
+  o o   oo  o
+ooooo ooo oooo
+oooo ooooo ooo
+ oooo ooo ooooo
+  o o o oo o o
+       o
+     oooo
+      oooo
+     oooo
+       o
+     oo oo
+     oooo
+      oooo
+      oooo
+     oo o
+       o o
+     ooooo
+      ooo
+     ooooo
+      oo
+
