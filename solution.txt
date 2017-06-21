@@ -1,0 +1,34 @@
+The pieces of the blue cube look as follows:
+  o    o   o o 
+ oooo ooo oooo 
+oooo ooooo oooo
+ oooo ooo oooo 
+  o    o  oo o 
+  o ooo oooo oo
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ o o oo oo o o 
+
+One of the solutions in "unfolded form" looks as follows:
+  o o  o  oo o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ o o   o   o o 
+     oo oo     
+      ooo      
+     ooooo     
+      ooo      
+     oo oo     
+       o       
+      oooo     
+     oooo      
+      oooo     
+       o       
+     oo oo     
+     oooo      
+      oooo     
+     oooo      
+      o o      
+
