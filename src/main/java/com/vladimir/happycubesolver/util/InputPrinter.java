@@ -17,9 +17,7 @@ public class InputPrinter extends CubePrinter {
     protected Map<SidePosition3d, Position> getPositionMap(int dimension) {
         //  Please see the printing area
         //	                 L F R
-        //                     D
-        //                     B
-        //                     U
+        //                     D U B
 
         Map<SidePosition3d, Position> positionMap = new EnumMap<SidePosition3d, Position>(SidePosition3d.class);
         positionMap.put(LEFT, new Position(0, 0));
